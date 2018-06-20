@@ -11,7 +11,7 @@
     "promise"
   ],
   "author": "lujin",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "devDependencies": {
     "promises-aplus-tests": "^2.1.2"
   }
